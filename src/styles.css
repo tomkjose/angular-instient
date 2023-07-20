@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+* {
+  /* reset */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.section-title {
+  color: #000;
+  font-size: 40px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+}
+
+.label-text {
+  color: #c7c7c7;
+  font-size: 18px;
+  font-family: "Inter", sans-serif;
+}
+
+.btn {
+  font-size: 25px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
