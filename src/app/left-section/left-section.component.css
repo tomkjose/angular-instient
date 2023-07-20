@@ -9,7 +9,6 @@
   justify-content: space-between;
   align-items: center;
   height: 100%;
-  flex: 0.2;
   padding: 10px;
 }
 
@@ -29,5 +28,5 @@
   left: 40px;
 }
 .g-logo {
-  left: 90px;
+  left: 80px;
 }
